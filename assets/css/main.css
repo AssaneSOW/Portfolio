@@ -4701,8 +4701,8 @@ input, select, textarea {
 	}
 	.move-up {
 		position: fixed;
-		bottom: 30px;
-		right: 40px;
+		bottom: 10%;;
+		right: 10%;
 		z-index:999;
 		}
 		.move-up button {
@@ -4722,6 +4722,6 @@ input, select, textarea {
 			list-style-type: none;
 		}
 
-		.picOfEncheres{
+		.picOfApp{
 			height:200px;
 		}
